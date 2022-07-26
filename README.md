@@ -15,5 +15,5 @@ For more information about this project, please don’t hesitate to contact me o
 
 
 <p align="center">
-  <img width="700" height="500" src="https://miro.medium.com/max/1400/0*_eGHej5I9ZPw3r4n.gif?format=500w">
+  <img width="700" height="500" src="https://i.pcmag.com/imagery/articles/01YaLMW89IZ2NkNRMGiuZrq-12.fit_lim.size_768x.png?format=500w">
 </p>
